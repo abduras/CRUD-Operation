@@ -1,0 +1,8 @@
+.data{
+	border-collapse: collapse;
+}
+.data th, .data td{
+	border: 1px solid black;
+	padding: 5px;
+
+}
